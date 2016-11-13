@@ -15,7 +15,7 @@
 	* See Joomla's core features - https://www.joomla.org/core-features.html
 	* Try out our online demo: https://demo.joomla.org/
 
-4- How to find a Joomla! translation?
+4- How to find a Joomla! translation? blah blah blah
 	* Repository of accredited language packs: https://community.joomla.org/translations.html
 	* You can also add languages directly to your website via your Joomla! administration panel: https://docs.joomla.org/J3.x:Setup_a_Multilingual_Site/Installing_New_Language
 	* Learn how to setup a Multilingual Joomla! Site: https://docs.joomla.org/J3.x:Setup_a_Multilingual_Site
